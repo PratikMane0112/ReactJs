@@ -4,7 +4,7 @@ import ReactDOM from "react-dom"
 const date = new Date();
 const currentTime = date.getHours();
 
-let greeting;
+let  greeting;
 
 const customStyle = {
   color : "",
